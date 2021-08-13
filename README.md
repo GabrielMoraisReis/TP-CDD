@@ -23,4 +23,4 @@ O tema escolhido pelo grupo foi o ensino superior no Brasil no ano 2019. Os dado
 1. Qual o top 5 cursos mais concorridos? Em quais faculdades a concorrência por esses cursos é maior?
 1. Qual a relação de matrículas de alunos portadores de necessidades especiais por subarea?
 1. Qual a relação do número de concluintes de cursos de graduação presencial x à distância, por região?
-
+1. Dado um conjunto de características de um indivíduo, qual área é a mais provável desse indivíduo pertencer?
