@@ -1,2 +1,6 @@
 # Ensino Superior no Brasil
-Repositório contendo todo o desenvolvimento do trabalho prático da disciplina CCF-425 Introdução à Ciência do Dados
+Alunos: Gabriel Morais (3497), Arthur Sales (3501), Mateus Coelho()
+
+O tema escolhido pelo grupo foi o ensino superior no Brasil no ano 2019. Os dados utilizados são os da tabela Microdados Censo da Educação Superior 2019 disponível em: https://download.inep.gov.br/microdados/microdados_educacao_superior_2019.zip
+
+<h2>Perguntas<\h2>
