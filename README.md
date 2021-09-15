@@ -25,7 +25,7 @@ O tema escolhido pelo grupo foi o ensino superior no Brasil no ano 2019. Os dado
 1. Qual a relação do número de concluintes de cursos de graduação presencial x à distância, por região?
 1. Dado um conjunto de características de um indivíduo, qual área é a mais provável desse indivíduo pertencer?
 
-##Tratamento de Dados
+## Tratamento de Dados
 
 Para realizarmos o tratamento de dados, inicialmente realizamos um tratamento inicial, pois o tamanho total dos datasets excedia o limite suportado pelas memórias RAMs dos nossos computadores quando os carregávamos. Neste tratamento inicial derrubamos todas as colunas que não iríamos utilizar para responder às perguntas definidas na parte anterior do trabalho e, também, executamos o comando drop_duplicates em todos datasets, para excluir potenciais linhas duplicadas nos dados. Com isso, conseguimos reduzir consideravelmente o tamanho dos dados e, para conseguir carregá-los de maneira mais eficiente posteriormente, geramos novos arquivos csv com esses tratamentos aplicados.
 
