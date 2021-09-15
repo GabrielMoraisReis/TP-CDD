@@ -1,5 +1,0 @@
- # Tratamento de Dados
- Para realizarmos o tratamento de dados, primeiro reduzimos o número de colunas que seriam utilizadas, de forma que não seja preciso carregá-las. 
- Isso foi feito principalmente porquê a base de dados escolhida era muito grande, e estourava a memória ao tentar carregar todas as colunas de uma determinada tabela.
- 
- Após fazer isso, analisamos as colunas que poderiam nos causar problemas devido a valores
