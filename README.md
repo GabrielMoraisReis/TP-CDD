@@ -35,5 +35,6 @@ Para a tabela de alunos, retiramos também as linhas nas quais as informações 
 
 <p align="center">
   <b>Comparativo do Tamanho das Tabela Antes e Após os Tratamentos</b>
+  
   <img src = "https://user-images.githubusercontent.com/49825001/133352002-4768c6b1-c8b3-41aa-9c4c-944dad604515.png"/>
  </p>
