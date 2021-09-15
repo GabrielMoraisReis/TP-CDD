@@ -34,7 +34,6 @@ As colunas que foram retiradas de cada base de dados podem ser encontradas nos a
 Para a tabela de alunos, retiramos também as linhas nas quais as informações referentes à cor de pele e deficiência do aluno não estavam presentes, ou que estivessem presentes, mas como “aluno não quis declarar”, também foram removidas as linhas referentes a alunos já falecidos. Na tabela de cursos, as linhas com tipo de grau acadêmico vazio foram removidas, pois indicam cursos com nível acadêmico sequencial ou de formação específica, portanto não são interessantes para a nossa análise. Para a tabela de docentes, excluímos as linhas referentes a docentes falecidos.
 
 <p align="center">
-  <b>Comparativo do Tamanho das Tabela Antes e Após os Tratamentos</b>
-  
+  <div><b>Comparativo do Tamanho das Tabela Antes e Após os Tratamentos</b></div>
   <img src = "https://user-images.githubusercontent.com/49825001/133352002-4768c6b1-c8b3-41aa-9c4c-944dad604515.png"/>
  </p>
