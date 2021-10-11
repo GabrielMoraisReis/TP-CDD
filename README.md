@@ -39,3 +39,7 @@ Para a tabela de alunos, retiramos também as linhas nas quais as informações 
  <p align="center">
  <img src = "https://user-images.githubusercontent.com/49825001/133352002-4768c6b1-c8b3-41aa-9c4c-944dad604515.png"/>
    </p>
+   
+##  Análise Exploratória e Extração de Conhecimento
+
+Esse tópico corresponde a parte 3 do trabalho prático. Todos os códigos para essa parte encotram-se na pasta "Parte3". Optamos por fazer a documentação dos códigos dentro dos próprios arquivos de código, visto que os notebooks do Jupyter possibilitam a utilização de Markdown dentro deles.
