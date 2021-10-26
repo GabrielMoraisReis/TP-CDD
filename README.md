@@ -3,6 +3,9 @@ Alunos: Gabriel Morais (3497), Arthur Sales (3501), Mateus Coelho(3488)
 
 O tema escolhido pelo grupo foi o ensino superior no Brasil no ano 2019. Os dados utilizados são os da tabela Microdados Censo da Educação Superior 2019 disponível em: https://download.inep.gov.br/microdados/microdados_educacao_superior_2019.zip
 
+O link para a apresentação é: 
+https://drive.google.com/drive/u/1/folders/1izfvua8V1gZH9T5fpeXBcPjPbCgRxWxR
+
 ## Perguntas
 1. Quantos homens e quantas mulheres cada área possui?
 1. Qual a distribuição de alunos matriculados por faixa etária?
